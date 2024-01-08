@@ -71,8 +71,8 @@
   .botaum {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #3498db;
-    color: #fff;
+    background-color: #eed3ad;
+    color: #211d1d;
     text-decoration: none;
     border: none;
     border-radius: 5px;
@@ -82,7 +82,8 @@
   }
   
   .botaum:hover {
-    background-color: #2980b9;
+    background-color: #f6c98b;
+    color: #211d1d;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
   }
 .a {
